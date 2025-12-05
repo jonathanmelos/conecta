@@ -1,0 +1,36 @@
+{
+    "name": "jonat/conecta_sistema",
+    "description": "conecta un sistema de gestion de coworking",
+    "type": "project",
+    "require": {
+        "dompdf/dompdf": "^2.0",
+        "phpoffice/phpspreadsheet": "^1.29",
+        "fullcalendar/fullcalendar": "^3.10",
+        "phpmailer/phpmailer": "^6.5",
+        "tinymce/tinymce": "^5.10",
+        "twilio/sdk": "^7.5",
+        "php-webdriver/webdriver": "^1.9",
+        "vlucas/phpdotenv": "^5.3",
+        "marufmax/emoticon-php": "^1.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Jonat\\ConectaSistema\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jonathan melo"
+        }
+    ],
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true,
+            "robloach/component-installer": true,
+            "oomphinc/composer-installers-extender": true
+        }
+    }
+}
