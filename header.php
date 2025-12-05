@@ -246,8 +246,6 @@ tr[onclick] {
 	<a class='me-3 py-2 link-body-emphasis text-decoration-none' href='diario.php?fecha=".$hoy."'>Diario</a>
     <a class='me-3 py-2 link-body-emphasis text-decoration-none' href='registro.php?doc=0'>Registro</a>
     <a class='me-3 py-2 link-body-emphasis text-decoration-none' href='clientes.php'>Cliente</a>
-		<a class='me-3 py-2 link-body-emphasis text-decoration-none' href='calendario.php'>Calendario</a>
-	 <a class='me-3 py-2 link-body-emphasis text-decoration-none' href='embudo.php'>Embudo</a>
 	 <a class='me-3 py-2 link-body-emphasis text-decoration-none' href='calculadora.php'>Calculadora</a>
     <a class='me-3 py-2 link-body-emphasis text-decoration-none' href='planes.php'>Planes</a>
     <a class='me-3 py-2 link-body-emphasis text-decoration-none' href='reportes.php'>Reportes</a>
@@ -261,8 +259,7 @@ tr[onclick] {
     <a class='me-3 py-2 link-body-emphasis text-decoration-none' href='clientes_r.php'>Cliente</a>
 	 <a class='me-3 py-2 link-body-emphasis text-decoration-none' href='calculadora.php'>Calculadora</a>
      <a class='me-3 py-2 link-body-emphasis text-decoration-none' href='reportes.php'>Reportes</a>
-     		<a class='me-3 py-2 link-body-emphasis text-decoration-none' href='calendario.php'>Calendario</a>
-	 <a class='me-3 py-2 link-body-emphasis text-decoration-none' href='embudo.php'>Embudo</a>
+	 
 </nav> 
 ";
 			
